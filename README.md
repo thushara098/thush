@@ -1,0 +1,2 @@
+# thush
+project ideas
